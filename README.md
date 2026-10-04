@@ -13,3 +13,6 @@ Repositorio del equipo para la entrega de la Práctica 2 de la materia de Bases 
 ## Estructura del Repositorio
 * `EVIDENCIAS_PRACITCA2/`: Carpeta que contiene el archivo `levantamiento.md` con la documentación de incidentes y las capturas de pantalla de la ejecución y consultas SQL.
 * `compose.yaml`: Archivo de configuración del sistema gestor correspondiente a la Práctica 1.
+
+## Uso de Inteligencia Artificial
+Para el desarrollo de esta práctica se utilizó herramientas de inteligencia artificial generativa como apoyo para consultar dudas de sintaxis, comandos y revisión rápida de redacción.
