@@ -25,3 +25,8 @@ Para verificar la correcta creación del modelo dimensional del proyecto, se acc
 *(Nota: Debido al reinicio forzado durante la resolución del error de conexión, la carga masiva se interrumpió y la tabla se consultó vacía, pero la estructura del Data Warehouse está operando correctamente).*
 
 ![Consulta SQL](consulta_sql.png)
+
+## 4. Referencias y Créditos
+El sistema analizado en esta práctica pertenece al repositorio original "Seismic-Data-Visualization-System". En cumplimiento con sus lineamientos de uso, se cita el trabajo de los autores:
+
+* Villa Vargas, Hurtado Avilés & Climent Hernández. (2026). *Cuando México tiembla: la historia contada por los datos*. DOI: [10.24275/AZC2026E1004](https://doi.org/10.24275/AZC2026E1004)
